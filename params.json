@@ -1,0 +1,6 @@
+{
+  "name": "Eclipse",
+  "tagline": "eclipse.platform project website",
+  "body": "Eclipse home page\r\n=================\r\n\r\nThis repository is the holds the content for the https://www.eclipse.org/eclipse/ website.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
